@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @auneselva
-- 👀 I’m interested in gamedev
-- 🌱 I’m currently learning Unity and C#
+- 👀 I’m working in gamedev
+- 🌱 I’m currently learning C++/Unreal
 
 <!---
 auneselva/auneselva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
